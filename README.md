@@ -1,10 +1,10 @@
-# BurgBits
+# bhamburg.com
 
 ![homepage banner](public/images/home.png)
 
 Hi there! 👋 
 
-Welcome to my readme file. This is the repo for my personal blog, [BurgBits](https://burgbits.com). Feel free to take a look around and let me know what you think at [bhamburg@gmail.com](mailto:bhamburg@gmail.com). Thanks!
+Welcome to my readme file. This is the repo for my personal blog, [bhamburg.com](https://bhamburg.com). Feel free to take a look around and let me know what you think at [bhamburg@gmail.com](mailto:bhamburg@gmail.com). Thanks!
 
 ## Tech Stack
 
